@@ -1,5 +1,5 @@
 # RPC monitoring tutorial
-This is a simple demonstration of how to use our [RPC monitoring tool](https://www.noderpc.xyz/rpc_monitoring) to effectively monitor the health of any EVM RPC endpoint (such as Ethereum, Polygon, etc).
+This is a simple demonstration of how to use our [RPC monitoring tool](https://www.noderpc.xyz/rpc_monitoring) to effectively monitor the health of any EVM RPC endpoint (such as Ethereum, Polygon, etc). For this demonstration, we've copied a simple NextJS [blog](https://github.com/vercel/next.js/tree/canary/examples/blog) web application that will collect your RPC monitoring data every time it's visited.
 
 Please follow these steps:
 1) Go to [RPC monitoring tool](https://www.noderpc.xyz/rpc_monitoring) and connect your wallet
