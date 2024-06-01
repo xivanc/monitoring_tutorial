@@ -9,5 +9,5 @@ Please follow these steps:
 5) Clone this github repo into your local folder: `git clone git@github.com:xivanc/monitoring_tutorial.git`
 6) In your local folder, in the `pages/_app.tsx` file, paste your modified script below the `<Head>` component
 7) Install the dependencies and run the web page locally: ```yarn install; yarn dev -p 3000```
-8) Refresh your localhost page `http://localhost:3000/` once a minute. Do this several times to simulate some traffic so that some monitoring data can be collected
-9) Go back to the [monitoring tool](https://www.noderpc.xyz/rpc_monitoring) where you should be able to see some health statistics of your EVM RPC endpoint
+8) Refresh your localhost page `http://localhost:3000/` once a minute. Do this several times to simulate some traffic so that monitoring data can be collected
+9) Go back to the [monitoring tool](https://www.noderpc.xyz/rpc_monitoring) where you should be able to see health statistics of your EVM RPC endpoint
